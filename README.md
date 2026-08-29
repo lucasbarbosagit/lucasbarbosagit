@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bg-profile-image.jfif" alt="Lucas Barbosa" width="100%"/>
+  <img src="./bg-profile-image.webp" alt="Lucas Barbosa" width="100%"/>
 </p>
 
 <p align="center">
