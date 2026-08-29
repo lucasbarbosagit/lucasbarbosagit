@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Barbosa&fontSize=50&fontColor=ffffff" alt="Lucas Barbosa"/>
 </p>
 
-Desenvolvedor Full Stack especialista (perfil T-shaped) — trabalho principalmente com **React**, **.NET/C#**, **Figma**.
+Desenvolvedor Full Stack especialista (perfil T-shaped) — trabalho principalmente com **React**, **.NET/C#**,  prototipação em **Figma**.
 
 #### 🛠️ Stack
 
@@ -20,8 +20,8 @@ Desenvolvedor Full Stack especialista (perfil T-shaped) — trabalho principalme
 
 #### 📊 GitHub stats
 
-[![Lucas's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucasbarbosagit&show_icons=true&theme=dracula)](https://github.com/lucasbarbosagit)
-[![Lucas's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lucasbarbosagit&layout=compact)](https://github.com/lucasbarbosagit)
+[![Lucas's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucasbarbosagit&show_icons=true&theme=tokyonight)](https://github.com/lucasbarbosagit)
+[![Lucas's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lucasbarbosagit&layout=compact&theme=tokyonight)](https://github.com/lucasbarbosagit)
 
 #### 📫 Onde me encontrar
 
