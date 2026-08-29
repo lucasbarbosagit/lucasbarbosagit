@@ -20,7 +20,7 @@ Desenvolvedor Full Stack especialista (perfil T-shaped) — trabalho principalme
 
 #### 📊 GitHub stats
 
-[![Lucas's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucasbarbosagit&show_icons=true&theme=default)](https://github.com/lucasbarbosagit)
+[![Lucas's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucasbarbosagit&show_icons=true&theme=dracula)](https://github.com/lucasbarbosagit)
 [![Lucas's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lucasbarbosagit&layout=compact)](https://github.com/lucasbarbosagit)
 
 #### 📫 Onde me encontrar
