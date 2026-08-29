@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-bg-image.png" alt="Lucas Barbosa — Full Stack Developer" width="100%" />
+  <img src="./banner.png" alt="Lucas Barbosa" width="600"/>
 </p>
 
 <p align="center">
