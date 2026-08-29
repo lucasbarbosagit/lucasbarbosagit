@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Lucas Barbosa" width="600"/>
+  <img src="./profile-bg-image.png" alt="Lucas Barbosa" width="600"/>
 </p>
 
 <p align="center">
