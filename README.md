@@ -22,6 +22,6 @@
 
 <p align="center">
   <a href="https://instagram.com/lucasbarbosa.me"><img src="https://cdn.simpleicons.org/instagram" width="28" height="28" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/lucasbarbosawork"><img src="https://cdn.simpleicons.org/linkedin" width="28" height="28" alt="LinkedIn"/></a>
-  <a href="mailto:lucas.barbosa.work@hotmail.com"><img src="https://cdn.simpleicons.org/gmail" width="28" height="28" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/lucasbarbosawork"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn"/></a>
+  <a href="mailto:lucas.barbosa.work@hotmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="28" height="28" alt="Email"/></a>
 </p>
