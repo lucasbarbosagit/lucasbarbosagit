@@ -4,8 +4,6 @@
 
 Desenvolvedor full stack especialista (perfil T-shaped) — trabalho com **React**, **Figma**, **.NET/C#**.
 
-No trabalho, construo e mantenho uma plataforma multi-módulo de gestão para proteção florestal, além de um sistema de propostas e orçamentos. Fora do expediente, gosto de brincar com ideias fora do óbvio — de geradores procedurais a jogos e IA aplicada a conteúdo criativo.
-
 #### 🛠️ Stack
 
 <p align="left">
